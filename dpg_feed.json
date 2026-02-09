@@ -1,0 +1,37 @@
+[
+   {
+      "id":"",
+      "title":"Dita LGHT 550 hockeyschoen",
+      "body":"Één van de meest comfortabele en lichtgewicht schoen",
+      "cta":"Shop nu",
+      "url":"https://www.hockeyoutlet.nl/products/dita-lght-550-hockeyschoen?utm_source=dpg_media&utm_medium=seamless_dynamic_schoen&utm_campaign=februari-actie",
+      "address":"seamless-image",
+      "segments":[
+         "I - Sports",
+         "3 - D - Age Range- 18 - 24",
+         "5 - D - Age Range- 25- 34",
+         "7 - D - Age Range- 35 - 44",
+         "9 - D - Age Range- 45 - 54",
+         "11 - D - Age Range- 55 - 64"
+      ],
+      "image_xl":"https://cdn.shopify.com/s/files/1/0649/3955/7132/files/Dita_Schoen1440px.jpg?v=1769693034",
+      "price":"Van €79,95 voor € 39,95",
+   },
+   {
+      "id":"",
+      "title":"Osaka one series hockeystick",
+      "body":"Standard Bow junior veldhockeystick van de beste kwaliteit",
+      "cta":"Shop nu",
+      "url":"https://www.hockeyoutlet.nl/products/osaka-one-series-hockeystick-1?utm_source=dpg_media&utm_medium=seamless_dynamic_stick&utm_campaign=februari-actie",
+      "address":"seamless-image",
+      "segments":[
+         "I - Sports",
+         "5 - D - Age Range- 25- 34",
+         "7 - D - Age Range- 35 - 44",
+         "9 - D - Age Range- 45 - 54",
+         "11 - D - Age Range- 55 - 64"
+      ],
+      "image_xl":"https://cdn.shopify.com/s/files/1/0649/3955/7132/files/Osaka_Stick1440px.jpg?v=1769693034",
+       "price":"Van €34,95 voor € 24,95",
+   }
+]
